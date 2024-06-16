@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles Anderson</h1>
 <h3 align="center">A passionate Backend developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charles130-anderson&label=Profile%20views&color=0e75b6&style=flat" alt="charles130-anderson" /> </p>
 
