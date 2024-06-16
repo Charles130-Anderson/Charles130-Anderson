@@ -12,7 +12,7 @@
 
 - 👨‍💻 Recent Project [http://picpress.charlesotieno.tech](http://picpress.charlesotieno.tech)
 
-- 💬 Ask me about **Software Documentation,Debbuging,Version Control using Git,Server Configuration,Server Monitoring,Data Analysis using Python**
+- 💬 Ask me about **Ask me about software documentation, debugging, version control using Git, server configuration, load balancing, web stack debugging, application server management, RESTful APIs, data structures in C, Python web frameworks, and data analysis using Python.**
 
 - 📫 How to reach me **andersonoyoo034@gmail.com**
 
