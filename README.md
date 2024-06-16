@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/charles17096573" target="blank"><img src="https://img.shields.io/twitter/follow/charles17096573?logo=twitter&style=for-the-badge" alt="charles17096573" /></a> </p>
 
-- 🌱 I’m currently Perfecting **C,python,Server configuration**
+- 🌱 I’m currently Perfecting **C,Python,Server configuration**
 
 - 👨‍💻 Recent Project [http://picpress.charlesotieno.tech](http://picpress.charlesotieno.tech)
 
