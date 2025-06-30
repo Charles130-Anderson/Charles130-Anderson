@@ -8,13 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/charles17096573" target="blank"><img src="https://img.shields.io/twitter/follow/charles17096573?logo=twitter&style=for-the-badge" alt="charles17096573" /></a> </p>
 
-- 🌱 Tech Stack**Python,FastAPI, Railway server**
+- 🌱 Tech Stack
+- Backend
+  **Python, FastAPI, Railway server**
+- Frontend
+  **Javascript, React, Vite**
+- Backend
+  **Postgres, Mysql, Railway**
 
   WEB APPLICATIONS
 
 - 👨‍💻  [FastAPI-E-Commerce](https://fastapi-e-commerce-production-0511.up.railway.app/)
 
-- 💬 Ask me about **Ask me about software documentation, debugging, version control using Git, server configuration, load balancing, web stack debugging, application server management, RESTful APIs, data structures in C, Python web frameworks, and data analysis using Python.**
+  SKILLS
+
+- 💬 **Software Documentation, Debugging, Version Control using Git, Server Configuration, Load Balancing, Application Server Management, Building RESTful APIs, Python web frameworks, and data analysis using Python.**
 
 - 📫 How to reach me **andersonoyoo034@gmail.com**
 
