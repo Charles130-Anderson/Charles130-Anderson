@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Perfecting **C,Python,Server configuration**
 
-- 👨‍💻 Recent Project [www.charlesotieno.tech](www.charlesotieno.tech)
+- 👨‍💻  [www.charlesotieno.tech](www.charlesotieno.tech)
 
 - 💬 Ask me about **Ask me about software documentation, debugging, version control using Git, server configuration, load balancing, web stack debugging, application server management, RESTful APIs, data structures in C, Python web frameworks, and data analysis using Python.**
 
