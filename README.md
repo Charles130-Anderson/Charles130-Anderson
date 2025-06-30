@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/charles17096573" target="blank"><img src="https://img.shields.io/twitter/follow/charles17096573?logo=twitter&style=for-the-badge" alt="charles17096573" /></a> </p>
 
-- 🌱 I’m currently Perfecting **C,Python,Server configuration**
+- 🌱 Tech Stack**Python,FastAPI, Railway server**
 
-- 👨‍💻  [www.charlesotieno.tech](www.charlesotieno.tech)
+  WEB APPLICATIONS
+
+- 👨‍💻  [FastAPI-E-Commerce](https://fastapi-e-commerce-production-0511.up.railway.app/)
 
 - 💬 Ask me about **Ask me about software documentation, debugging, version control using Git, server configuration, load balancing, web stack debugging, application server management, RESTful APIs, data structures in C, Python web frameworks, and data analysis using Python.**
 
