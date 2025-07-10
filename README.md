@@ -19,6 +19,7 @@
   WEB APPLICATIONS
 
 - 👨‍💻  [FastAPI-E-Commerce](https://fastapi-e-commerce-production-0511.up.railway.app/)
+- 👨‍💻 [Fastapi-Ai Coding Challenge Generator](https://fastapi-ai-coding-challenge-generator-production-ffe3.up.railway.app)
 
   SKILLS
 
