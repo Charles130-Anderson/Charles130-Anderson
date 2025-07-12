@@ -23,7 +23,7 @@
 
   SKILLS
 
-- 💬 **Software Documentation, Debugging, Version Control using Git, Server Configuration, Load Balancing, Application Server Management, Building RESTful APIs, Python web frameworks, and data analysis using Python.**
+- **Software Documentation, Debugging, Version Control using Git, Server Configuration, Load Balancing, Application Server Management, Building RESTful APIs, Python web frameworks, and data analysis using Python.**
 
 - 📫 How to reach me **andersonoyoo034@gmail.com**
 
