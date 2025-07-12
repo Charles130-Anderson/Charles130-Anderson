@@ -21,7 +21,9 @@
 - 👨‍💻  [FastAPI-E-Commerce](https://fastapi-e-commerce-production-0511.up.railway.app/)
 - 👨‍💻 [Fastapi-Ai Coding Challenge Generator](https://fastapi-ai-coding-challenge-generator-production-ffe3.up.railway.app)
 
-  SKILLS
+  APPLICATION
+  
+   SKILLS
 
 - **Software Documentation, Debugging, Version Control using Git, Server Configuration, Load Balancing, Application Server Management, Building RESTful APIs, Python web frameworks, and data analysis using Python.**
 
